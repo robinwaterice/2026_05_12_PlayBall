@@ -1,0 +1,6 @@
+{
+  "name": "打磚塊 Breakout",
+  "description": "現代極簡風格的打磚塊遊戲，使用 HTML5 Canvas 與 React 開發。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
